@@ -46,8 +46,16 @@ def init_db():
     """)
     conn.commit()
     conn.close()
-init_db()
-rag_engine.initialize()
+try:
+    print("🔄 Initializing system...")
+    
+    init_db()
+    rag_engine.initialize()
+    
+    print("✅ System initialized!")
+
+except Exception as e:
+    print(f"❌ Initialization failed: {e}")
 
 @app.route("/")
 def home():
@@ -161,4 +169,5 @@ def session_info_endpoint():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
