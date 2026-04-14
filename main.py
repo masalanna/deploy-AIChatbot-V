@@ -12,20 +12,6 @@ import memory_manager
 
 load_dotenv()
 
-# _SCHEDULER_BACKEND = os.getenv("SCHEDULER_BACKEND", "win").lower()
-
-# if _SCHEDULER_BACKEND == "smtp":
-#     from scheduler_portable import schedule_meeting
-#     print("[main] 📧 Scheduler backend: SMTP (portable)")
-# else:
-#     try:
-#         from scheduler_win import schedule_meeting
-#         print("[main] 📅 Scheduler backend: Outlook/win32com")
-#     except ImportError:
-#         print("[main] ⚠️  win32com not available — falling back to SMTP scheduler")
-#         from scheduler_portable import schedule_meeting
-
-
 _SCHEDULER_BACKEND = os.getenv("SCHEDULER_BACKEND", "smtp").lower()
 
 if _SCHEDULER_BACKEND == "win":
@@ -41,8 +27,7 @@ else:
 
 
 app = Flask(__name__)
-app.secret_key = os.getenv("SECRET_KEY", "softdel-sva-secret-2025")
-
+app.secret_key = os.getenv("SECRET_KEY", "softdel-sva-2025")
 
 def init_db():
     conn = sqlite3.connect("scheduler.db")
@@ -61,8 +46,8 @@ def init_db():
     """)
     conn.commit()
     conn.close()
-
-
+init_db()
+rag_engine.initialize()
 
 @app.route("/")
 def home():
@@ -176,6 +161,4 @@ def session_info_endpoint():
 
 
 if __name__ == "__main__":
-    init_db()
-    rag_engine.initialize()
     app.run(host="0.0.0.0", port=5000, debug=False)
