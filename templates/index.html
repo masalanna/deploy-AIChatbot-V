@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot UI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="chat-container" class="chat-container">
+        <!--<div class="chat-header">
+            <span><img src="/static/images/chatIconBottom.svg" width="35" height="35" alt="Bot icon"> Chat with SVA</span>
+            <div class="chat-controls">
+                <button id="chatbot-reset" class="btnReset" title="Reset Chat">⟳</button> 
+                <button id="chatbot-minimize" class="btnMinimize" title="Minimize">−</button>         
+                <img src="/static/images/reload-refresh.svg" class="refresh-icon" alt="Refresh Icon"> 
+           </div>
+        </div>-->
+        <div id="chat-display" class="chat-display"></div>
+        <div id="typing-indicator" class="typing-indicator" style="display: none;">
+            Chatbot is typing...
+        </div>
+        <div class="chat-input-container">
+            <input id="user-input" type="text" placeholder="Type your message..." />
+            <button id="send-button"><img src="/static/images/sendIcon.png" width="42"  alt="send button icon"></button>
+            <!-- <button id="call-button" class="callBtnFooter" onclick="handleOptionClick(this, 'schedule call')"><span>
+                <img src="/static/images/phoneIcon.png"  alt="Phone Icon">
+            </span></button> -->
+        </div>
+    </div>
+    <!-- <div id="chatbot-avatar" style="display: flex;">🤖</div> -->
+
+ <!--  Schedule Call Form (Initially Hidden) -->
+<div id="schedule-form" class="schedule-form" style="display: none;">
+    <h3>Please fill the form</h3>
+    <form id="callForm">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your full name" required />
+
+        <label for="email">Email ID:</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required />
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone" placeholder="10-digit phone number" pattern="[0-9]{10}" required />
+
+        <label for="date">Preferred Date:</label>
+        <input type="date" id="date" name="date" required />
+
+        <label for="time">Preferred Time (24-hour format):</label>
+        <input type="time" id="time" name="time" required />
+
+        <label for="duration">Meeting Duration (minutes):</label>
+        <select id="duration" name="duration" required>
+            <option value="15">15 minutes</option>
+            <option value="30">30 minutes</option>
+            <option value="45">45 minutes</option>
+            <option value="60">1 hour</option>
+            <option value="90">1.5 hours</option>
+            <option value="120">2 hours</option>
+        </select>
+
+        <div class="form-buttons">
+            <button type="submit" id="submitForm">Submit</button>
+            <button type="button" id="cancelForm">Cancel</button>
+        </div>
+
+        <p id="formMessage" class="form-message"></p>
+    </form>
+</div>
+
+
+    <script src="/static/script12 (1).js"></script>
+</body>
+</html>
+

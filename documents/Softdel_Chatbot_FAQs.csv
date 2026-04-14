@@ -1,0 +1,48 @@
+Sr no,Question,Answer
+1,What is Softdel?,Softdel is a global IoT intelligence partner specializing in end-to-end “chip-to-cloud” solutions for connected devices and systems.
+2,What does Softdel do?,"Softdel provides IoT products, protocol stacks, gateways, and engineering services for smart buildings, industries, and energy systems."
+3,Which industries does Softdel serve?,"Softdel serves smart buildings, lighting, industrial automation, and smart energy sectors."
+4,What are the products offered by Softdel?,"Our product portfolio includes:
+1. Communication protocol stacks (e.g. BACnet, Modbus, HART, DMX) 
+2. IoT Gateway & Platform solutions (e.g. EdificeEdge, EdificePlus) 
+3. A BACnet simulator (BOSS) for testing and simulation of devices over IP networks"
+5,What services does Softdel provide?,"Our services include:
+1. Product Engineering (Device Engineering, IoT Solutions & Services, Platform Engineering, Managed Services, Industry 4.0, Custom Application Development)
+2. Quality Engineering (Testing Services, IoT Labs, Functional Safety & Compliance)
+3. Centers of Excellence (Data Analytics & AI, Cloud, Mobile, UI/UX, BACnet)"
+6,Can you explain Softdel’s “chip to cloud” approach?,"leadership team members:
+1. Sachin Deshmukh – Managing Director, leads innovation and growth in AI, IoT, and smart building solutions.
+2. Sunil K. Dalal – Founder & Chairman, drives the company’s vision for intelligent, connected technologies."
+7,What is Softdel’s mission and vision?,"Vision: To create a smarter, connected world.
+Mission: To enable device manufacturers and enterprises to innovate faster using IoT and AI."
+8,What is BOSS (BACnet Over IP Simulator)?,"BOSS is Softdel’s BACnet simulator that allows testing and simulating BACnet devices, properties, and services over IP networks."
+9,Which protocol stacks are supported by Softdel?,"We support industry standard stacks including BACnet, Modbus, HART, and DMX."
+10,What is SoftBAC?,SoftBAC is Softdels implementation of the BACnet communication protocol stack.
+11,What is softMOD?,softMOD is the industry-standard Modbus protocol stack for industrial automation and building automation
+12,What is softHART?,softHART is the Softdel’s industry-standard smart HART (Highway Addressable Remote Transducer Protocol) communications stack for industrial automation. It enables faster firmware development for HART-enabled devices.
+13,What is softDMX?,"softDMX is the industry-standard DMX-512 protocol stack, used for control of advanced lighting and stage equipment"
+14,What is EdificeEdge?,EdificeEdge is an intelligent IoT edge platform for building automation systems.
+15,What is EdificePlus?,"EdificePlus is a cloud or enterprise platform for central management, analytics, and control of smart building systems."
+16,What's the difference between EdificeEdge and EdificePlus?,"EdificeEdge is an edge platform, while EdificePlus provides cloud integration and extended analytics."
+17,What solutions does Softdel offer for smart buildings?,"Softdel offers protocol integration, smart controls, edge-to-cloud connectivity, and analytics."
+18,Does Softdel support Industry 4.0?,"Yes, Softdel helps manufacturing clients with digital transformation using smart automation and IoT."
+19,Where is Softdel located?,"Softdel has offices in India, the USA, Singapore, and Japan."
+20,What kind of testing services does Softdel offer?,"Softdel offers automated, functional, compliance, and interoperability testing for smart devices."
+21,Can Softdel help with AI and analytics?,"Yes, Softdel provides AI and machine learning integration for device data analytics and automation."
+22,In what ways does EdificeEdge contribute to smart building management?,"EdificeEdge enables smart buildings to operate efficiently, respond in real-time, and integrate diverse systems seamlessly while feeding data to enterprise platforms for advanced management."
+23,What kind of device engineering services does Softdel offer?,"Device Engineering Services:
+1. Hardware Design
+2. Firmware Development
+3. Embedded Human-Machine Interface (HMI)"
+24,Do you offer platform engineering and cloud-based solutions?,"Yes, Softdel offers both platform engineering and cloud-based solutions as part of their smart building and IoT services. Here’s a detailed breakdown:"
+25,Who are the leadership team members at Softdel?,"leadership team members:
+1. Sachin Deshmukh – Managing Director, leads innovation and growth in AI, IoT, and smart building solutions.
+2. Sunil K. Dalal – Founder & Chairman, drives the company’s vision for intelligent, connected technologies."
+26,How can I apply for jobs or see open positions at Softdel?,Visit the Softdel website ? Careers ? Open Positions.
+27,What types of companies typically work with Softdel?,"Softdel partners with OEMs, system integrators, ISVs, and enterprises involved in building automation, industrial automation, energy management, and IoT."
+28,What makes Softdel different from other IoT solution providers,"Softdel’s unique “chip-to-cloud” expertise, deep protocol knowledge, domain experience in smart buildings and industrial automation, and strong R&D focus set us apart. We also offer a combination of ready-to-deploy products and customizable engineering services."
+29,What compliance standards does Softdel follow,"Softdel adheres to international standards like ISO 9001, ISO 27001, and follows industry-specific compliance frameworks for IoT and automation systems."
+30,Does Softdel offer internships or training programs?,"Yes, Softdel offers internships, graduate programs, and continuous learning opportunities for students and professionals interested in IoT and embedded systems."
+31,Who are Softdel’s technology partners?,"Softdel partners with Microsoft, AWS, and leading semiconductor and automation companies."
+32,Why choose Softdel?,"Because Softdel delivers complete, interoperable, and intelligent IoT ecosystems tailored to your industry."
+33,full form of BOSS?,Full form of BOSS is BACnet Over IP simulation System.

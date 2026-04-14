@@ -1,0 +1,40 @@
+Source: https://www.softdel.com/bacnet-device-simulator/
+
+BACnet Simulator | BOSS Simulator | Softdel
+Softdel’s BOSS Simulator (BACnet Over IP simulation System) is a sophisticated BACnet monitoring, debugging, and simulation program that runs on any Windows® computer. Additionally,it has a simple interface that is easy to use for BACnet professionals as well as novices.
+The BOSS Simulator extends the functionality by adding complex simulation and troubleshooting features, including support for A-side and B-side services, device discovery across routers, and auto command generation across the entire network.
+Furthermore, technicians can configure the BACnet network, issue service commands, and manage physical and virtual BACnet devices. Traffic can be automatically generated to test network behaviour. Moreover, real-time monitoring and logging of the network are supported. The tool can even back up the object properties of the simulated created devices and restore the properties and configuration later.
+When used as a standalone program, the BOSS Simulator can create and simulate an entire BACnet network of virtual devices, complete with simulated traffic. The simulated network can be loaded with the backup of a physical network, allowing  technicians to troubleshoot the network without having to be on-site.
+Support for both A-side and B-side services
+User configurable simulation of PVs(Present Values)
+Supports IBM MS DBCS, ANSI X3.4 character sets
+Real time logging, monitoring & analysis of BACnet commands and response
+Manage and monitor alarms, calendars and schedules
+Set property value of discovered  objects
+Support for both A-side and  B-side services
+User configurable simulation of  PVs (Present Values)
+Supports IBM MS DBCS , ANSI  VX3.4 character sets
+Real time logging, monitoring &  analysis of BACnet commands and  response
+Manage and monitor alarms, calendars and schedules
+Set property value of discovered  objects
+Support for both A-side and  B-side services
+User configurable simulation of  PVs (Present Values)
+Supports IBM MS DBCS , ANSI  VX3.4 character sets
+Real time logging, monitoring &  analysis of BACnet commands and  response
+Manage and monitor alarms, calendars and schedules
+Simulate around 250 BACnet/IP virtual devices with different objects under virtual router, along with property and service configurations, all on a single network.
+Enable configuration of changing PVs for simulated objects.
+Create a network of virtual BACnet devices for troubleshooting during development, integration, commissioning, and inter-operability testing with different device configurations.
+User-configurable simulation of PVs (Present Values).
+Auto-discover and browse BACnet devices on any accessible network. BACnet Broadcast Management Device (BBMD) support enables device discovery across subnets.
+Set and monitor property values of discovered device objects.
+Real time logging, monitoring, and analysis of BACnet commands and responses.
+Simulate a deployed BACnet environment by configuring a custom set of BACnet service commands to generate periodic network traffic.
+Capture and analyse the transaction log of issued service requests and responses.
+Easily monitor any object property value, for a virtual or discovered physical device, to detect value changes and error responses.
+Manage and monitor alarms, calendars and schedules.
+Testing the functionality of OEMs’ BACnet networks, the BOSS simulator allows for more effective and efficient configuration of BACnet for smart buildings.
+By simulating end customer BACnet device networks, OEMs can troubleshoot interoperability issues before live deployment and help make informed decisions.
+Remotely simulating BACnet/IP device networks helps OEMs identify issues at the development and pre-testing stage, which reduces the effort and cost of testing.
+BOSS simulates multiple virtual devices on a single desktop, providing OEMs with a comprehensive look at the functionality and interoperability of each device.
+Find out how BACnet bridges the worlds of IT and Building Automation Systems

@@ -1,0 +1,11 @@
+Source: https://www.softdel.com/dmx-512-stack/
+
+DMX-512 Stack | Smart Lighting Control Systems | Softdel
+softDMX is the industry-standard DMX-512 protocol stack, used for control of advanced lighting and stage equipment. SoftDMX communicates using the simple asynchronous RS-485 serial interface and does not require complicated wiring or installation procedures. It is commonly used to control stage lighting and stage equipment including dimmers, fog machines, moving lights, color mixers, and special effects devices. DMX-512 is also used for non-theatrical lighting such as home, industrial, outdoor, building, and architectural lighting. One master on a DMX-512 channel can control up to 512 individual daisy-chained lights or devices from zero to 100 percent brightness in 256 steps, all from a single control console. softDMX runs on a very broad range of hardware platforms, processors, and operating systems.
+Conforms to the DMX512-A standard DMX-512-E1-11_2008R2013
+Supports existing processors from texas instruments, NXP, microchip technology, and ARM®
+Can be custom ported to any processor or hardware platform
+Works with both RTOS and non-RTOS microcontroller environments
+Supports all major Modbus, diagnostic, and exception functions
+Your engineers can port softDMX to your hardware, with Softdel providing engineering assistance as needed.
+We can also port the softDMX stack to your hardware and integrate it with your application. In addition, Softdel can also test its operation on your network. This can be performed for one or all network devices.

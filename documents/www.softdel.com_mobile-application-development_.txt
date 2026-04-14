@@ -1,0 +1,56 @@
+Source: https://www.softdel.com/mobile-application-development/
+
+The growing number of smartphone users worldwide has influenced enterprises to implement mobile technology
+based applications for improving customer interaction and acquiring actionable insights about their customer base. Mobile apps on Internet of Things (IoT) platforms have aided the development of user-centric applications by providing convenience, scalability, and ease of use. Organisations in the building and industrial automation domain are embracing this trend to efficiently manage smart IoT devices and provide a better user experience.
+Users can get access to critical information and establish real-time communication with on-premise and remote locations through mobile apps, thus amplifying their operational efficiency, generating higher revenue, and supporting business growth. Enterprises are using the power of smartphones to capture efficiencies by bringing the devices online and establishing connectivity using the plethora of mediums possible with today’s technology.
+Users can get access to critical information and establish real-time communication with on-premise and remote locations through mobile apps, thus amplifying their operational efficiency, generating higher revenue, and supporting business growth. Enterprises are using the power of smartphones to capture efficiencies by bringing the devices online and establishing connectivity using the
+plethora of mediums possible with today’s technology.
+Softdel develops tailored mobile applications by combining different data exchange and data processing mediums backed by our in-depth understanding of business requirements. we provide a wide range of mobile app development services, including multi-platform operations, easy device interfacing, data analysis, and reporting.
+Custom android SDK for Linux-based hardware
+Sensor-based communication enablement for BLE, NFC, USB,
+Wireless chip considering low-power needs
+Integration with wearable devices such as smart glasses and AR/VR headsets
+Utilise features of smartphones like GPS, multi-touch, and camera to unlock new use-cases such as geo location, gesture, and access control
+Apps for all platforms – Android, iOS, Web, Windows, and native
+Cross-platform app development that delivers native-like performance
+Use of open-source tools for transparency and tighter integrations with IoT frameworks developed for stringent security and data integrity measures
+Commissioning, updating, and upgrading of mobile apps for various app stores
+Simple UI/UX design for best user experiences
+Design and develop wireframes, mock-ups, and prototypes
+Customised end-user focused dashboards and reporting in mobile apps that handle intricacies of an IoT ecosystem
+Support for multiple languages to localise the apps
+Home automation  Enable Alexa, Siri (HomeKit) support in apps
+Integrating AI-ML capabilities in apps to provide actionable insights
+Remote device connectivity to enable app monitoring and control with intuitive dashboards
+Configuration and time series data Offline/Online synchronisation with cloud platforms
+Custom android SDK for Linux-based hardware
+Sensor-based communication enablement for BLE, NFC, USB,
+Wireless chip considering low-power needs
+Integration with wearable devices such as smart glasses and AR/VR headsets
+Utilise features of smartphones like GPS, multi-touch, and camera to unlock new use-cases such as geo location, gesture, and access control
+Apps for all platforms – Android, iOS, Web, Windows, and native
+Cross-platform app development that delivers native-like performance
+Use of open-source tools for transparency and tighter integrations with IoT frameworks developed for stringent security and data integrity measures
+Commissioning, updating, and upgrading of mobile apps for various app stores
+Simple UI/UX design for best user experiences
+Design and develop wireframes, mock-ups, and prototypes
+Customised end-user focused dashboards and reporting in mobile apps that handle intricacies of an IoT ecosystem
+Support for multiple languages to localise the apps
+Home automation Enable Alexa, Siri (HomeKit) support in apps
+Integrating AI-ML capabilities in apps to provide actionable insights
+Remote device connectivity to enable app monitoring and control with intuitive dashboards
+Configuration and time series data Offline/Online synchronisation with cloud platforms
+We employ the best frameworks like Flutter and Cordova to design business apps for various use-cases across the building and industrial domain.
+100+ customised applications successfully developed for global OEMs and enterprises.
+Our skilled team of in-house engineers develops mobile apps after extensive research, ensuring feature-rich quality applications.
+Our mobile applications are developed using heuristic design principles that turn the user journey into an intuitive user experience.
+We employ the best frameworks like Flutter and Cordova to design business apps for various use-cases across the building and industrial domain.
+100+ customised applications successfully developed for global OEMs and enterprises.
+Our skilled team of in-house engineers develops mobile apps after extensive research, ensuring feature-rich quality applications.
+Our mobile applications are developed using heuristic design principles that turn the user journey into an intuitive user experience.
+An app that seamlessly communicates with a BLE-enabled flowmeter for monitoring and controlling, with features like auto-connect and secure connection
+An app that facilitates effortless exchange of information for customer devices like smart lighting controllers, over NFC tags and NDEF messages
+A device commissioning app for communication over serial interfaces (like Moxa Serial Server or Aten Serial Server) to monitor and control multiple types of equipment
+A mobile app to synchronise, monitor, and control air purifiers with connectivity to home automation devices like Alexa, HomePod, and Google Home
+An app that communicates over a radio module to set up room devices and simultaneously control them with workflow automation
+Transforming water heater solutions for a safer, elevated user experience

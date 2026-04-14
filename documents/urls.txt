@@ -1,0 +1,15 @@
+# Website URLs for Chatbot Knowledge Base
+
+# Add your website URLs here (one per line)
+# The chatbot will scrape these pages and include them in the knowledge base
+
+# Example URLs (remove # to use):
+# https://www.softdelsystems.com/about
+# https://www.softdelsystems.com/products
+# https://www.softdelsystems.com/solutions
+
+# Instructions:
+# 1. Add one URL per line
+# 2. Lines starting with # are comments and will be ignored
+# 3. Make sure URLs are complete (include https://)
+# 4. After adding URLs, run: python create_index.py

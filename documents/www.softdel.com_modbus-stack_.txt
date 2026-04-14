@@ -1,0 +1,17 @@
+Source: https://www.softdel.com/modbus-stack/
+
+Modbus Stack | Modbus Protocol Stack | softMOD
+softMOD is the industry-standard Modbus protocol stack for industrial automation and building automation. softMOD supports both Modbus RTU (Remote Terminal Unit) and Modbus TCP/IP (Transmission Control Protocol) in client and server modes. SoftMOD runs on a very broad range of hardware and operating systems.
+softMOD RTU supports simple RS-232 and RS-485 serial interfaces, hence it does not require complicated wiring or installation procedures.
+SoftMOD TCP/IP requires an Ethernet interface and can run over an existing Ethernet network. TCP/IP client stack is available with a REST interface and also runs in a Linux docker container.
+Your engineers can port softMOD to your hardware, with Softdel providing technical assistance as needed. We can also port the softMOD stack to your hardware and integrate it with your application. Softdel can also test its operation on your network. This can be performed for one or all network devices.
+Existing softMOD applications include flow, pressure, temperature transmitters, industrial gateways, energy meters, and water heater controllers.
+Supports existing processors from texas instruments, NXP, microchip technology, and ARM®
+Can be custom ported to any processor or hardware platform
+Works with both RTOS and non-RTOS microcontroller environments
+Compatible with most Modbus diagnostic tools including Wingpath and ModPoll
+Small and highly efficient Client RTU stack requires 6.052 KBytes program memory and 3.64 KBytes of RAM. Server RTU stack requires 11.85 KBytes program memory and 3.5 KBytes RAM
+Works over all major baud rates from 9600 to 115200 baud, with and without parity
+Supports all major Modbus, diagnostic, and exception functions
+REST-based stack supports TLS 1.2 security
+Reliable and robust enough for any industrial environment

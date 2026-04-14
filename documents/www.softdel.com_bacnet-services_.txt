@@ -1,0 +1,30 @@
+Source: https://www.softdel.com/bacnet-services/
+
+BACnet Services | BACnet Integration & Consulting | Stack Porting | Softdel
+Organisations in the Building Automation industry have been in a relentless pursuit to refine their strategies and contribute to the next generation of smart buildings. Digital transformation of buildings requires devices to talk to each other, be interoperable, self-diagnose, and always stay connected. Each core element of this transformation is united through one common enabler – the Building Automation Control Network or BACnet. BACnet has powered high-performance buildings that improve efficiency, increase return on investment (ROI), and reduce the carbon footprint.
+With our extensive BACnet expertise and experience of 15+ years, we provide holistic services for BACnet enabled solutions, ensuring BACnet compliance and interoperability between devices and systems. We guide OEMs and enterprises through their Buildings-IoT journey, supporting high growth business models and market needs, and enabling a seamless transition to BACnet-enabled solutions.
+Our structured BACnet training courses cover basic and advanced topics. We aim to demystify the complexities of the BACnet protocol, leveraging this knowledge to help organisations create innovative solutions for their unique business needs.
+With our expertise in porting communications stacks into every possible hardware platform, we help organisations to not only port stacks into a system’s hardware but also integrate them into products and applications quickly and easily.
+We help engineer gateways that perform a variety of functions which are now becoming the standard industry requirement.
+Before OEMs venture their products and devices into official certification, they can be assured of quality and compliance via Softdel's pre-certification service. Our testing services verify BACnet product compliance, thereby reducing errors, saving cost and time for OEMs.
+Our structured BACnet training courses cover basic and advanced topics. We aim to demystify the complexities of the BACnet protocol, leveraging this knowledge to help organisations create innovative solutions for their unique business needs.
+With our expertise in porting communications stacks into every possible hardware platform, we help organisations to not only port stacks into a system’s hardware but also integrate them into products and applications quickly and easily.
+We help engineer gateways that perform a variety of functions which are now becoming the standard industry requirement.
+Before OEMs venture their products and devices into official certification, they can be assured of quality and compliance via Softdel’s pre-certification service. Our testing services verify BACnet product compliance, thereby reducing errors, saving cost and time for OEMs.
+15+ years of core experience providing comprehensive BACnet services to leading OEMs and enterprises
+Multidimensional solutions for BACnet implementation in building automation devices and equipment, across multiple product lines.
+Exhaustive benefits to serve the entire organisation's needs from the owners to the integrators.
+Highest levels of support from design to customer operations.
+15+ years of core experience providing comprehensive BACnet services to leading OEMs and enterprises.
+Multidimensional solutions for BACnet implementation in building automation devices and equipment, across multiple product lines.
+Exhaustive benefits to serve the entire organisation’s needs from the owners to the integrators.
+Highest levels of support from design to customer operations.
+Some of the world's leading airports use building management solutions and building controllers hosted on Softdel's BACnet stack.
+We partnered with leading companies in HVAC and Smart Lighting to develop native interfaces for field devices.
+Softdel runs the official BACnet Testing Lab (BTL); products developed by renowned OEMs using the BACnet stack have been tested in our labs.
+For a US-based company, we developed a next-gen BACnet-based room controller which was announced as the “Innovative Product of the Year” at the AHR Expo.
+Backed by Softdel’s BACnet over Wifi stack, thermostats can now perform building-level control operations as against only room control, making them much more powerful.
+High-performance water solutions to help meet greener building goals
+Remote monitoring of elevator controllers with BACnet
+Enterprise IoT platform for next generation solar shade systems
+Find out how BACnet bridges the worlds of IT and Building Automation Systems

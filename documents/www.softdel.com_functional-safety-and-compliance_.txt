@@ -1,0 +1,29 @@
+Source: https://www.softdel.com/functional-safety-and-compliance/
+
+Ensuring functional safety and compliance with industry standards is paramount in today’s competitive market. Products that meet rigorous safety standards not only safeguard users and environments but also foster trust and broaden market acceptance. In an ever-evolving landscape, prioritising functional safety and industry-standard compliance is integral to sustaining business success and fostering long-term customer satisfaction.
+Softdel provides end-to-end testing and certification services, including pre-assessment, gap analysis, and complete compliance testing. We guide you through technical challenges, ensuring your products meet industry-standard compliance requirements and gain access to global markets. We assist customers across diverse product categories throughout the entire certification process.
+- UL 991 - Tests for safety-related controls employing solid-state devices
+- UL 1998 - Software in programmable components
+- IEC/UL 60730-1 Annex H –  Automatic and electrical controls for household and similar use
+- IEC 62841 – Safety of electric, motor-operated, or magnetically driven tools
+- UL 1973 - Batteries for use in stationary, vehicle auxiliary power and Light Electric Rail (LER) applications
+Building automation controls and system standards
+- CSA E60730-1 - UL certification for Canada
+- IEC 60730-1 - IEC CB test certificate or informative test report, which
+can be used towards a manufacturer-declared CE marking
+- EN 60730-1 - European group difference, which can be used towards ENEC licensing or informative test report, which can be
+used towards a manufacturer-declared CE marking
+Electric vehicle (EV) charging infrastructure services standards
+- IEC 61851-1 - Electric vehicle conductive charging systems – general requirements
+- IEC 61851-22 - Electric vehicle conductive charging systems – AC to AC Connections
+- IEC 62196 - Series plugs, socket-outlets, vehicle connectors, and vehicle Inlets – conductive charging of electric vehicles
+- ANSI/UL 2202 - Electric vehicle charging system equipment (AC to DC)
+- UL 9741 - Bidirectional electric vehicle (EV) charging system equipment
+-	ISO 26262 - Functional safety for electrical automotive equipment
+Our team of seasoned and certified professionals have extensive experience and knowledge to skillfully guide you through each testing and certification step with precision and proficiency.
+Enterprises benefit from our in-depth knowledge, ensuring that their products not only meet current requirements but also anticipate future regulatory changes.
+We optimise processes, making them more efficient and ensuring a smoother path to achieving functional safety and compliance with industry standards, ultimately saving time and resources.
+Our proactive risk management approach minimises the likelihood of setbacks or challenges during certification, safeguarding your enterprise's investment.
+with a robust battery management system (BMS)
+Driving sustainability with NACS-compliant EV charging infrastructure
+certification for functional safety compliance

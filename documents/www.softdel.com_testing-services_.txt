@@ -1,0 +1,21 @@
+Source: https://www.softdel.com/testing-services/
+
+According to the most conservative forecasts, by 2030, there would be over 50 billion connected IoT devices. As the number of connected devices in the IoT ecosystem keeps increasing, it has become critical to keep automation systems running smoothly and securely. The heterogeneity and complexity of these systems makes IoT testing crucial to enterprises for timely validation, interoperability, and reduced time to market. IoT solution testing is a highly specialised skill that requires a deep comprehension of technology and its latest standards to deliver functional solutions with high reliability, performance, and security.
+Softdel offers specialised holistic testing services from the edge to the cloud, providing faultless and secure solutions. we employ modern methodologies like agile or traditional software development life cycle (SDLC) to perform quality assurance (QA) for test planning, trace ability, evidence recording, and defect reporting.
+— Compliance and interoperability testing
+We offer a wide range of testing services including functional, non-functional, scalability, and security testing.
+SoftTAF is a test automation framework developed by Softdel for testing IoT applications. SoftTAF features, which are built on top of a robot framework, support multiple communication interfaces like TCP/IP, serial, and USB and can be customised to support new interfaces. It helps achieve superior product quality, faster go-to-market, and lower costs by providing automated test coverage with no manual testing.
+Our cutting-edge technologies support verification and validation activities, and our data-driven approach brings valuable insights to the product life cycle.
+15+ years of testing experience across the building and industrial domain supported by a skilled team of testers and quality assurance engineers help us deliver robust quality services.
+A holistic mix of manual and automated testing services helps achieve precision and enables faster time to market.
+Effective coordination with customers enables us to efficiently test the market-readiness of solutions, ensuring the highest confidence during deployment.
+Our cutting-edge technologies support verification and validation activities, and our data-driven approach brings valuable insights to the product life cycle.
+15+ years of testing experience across the building and industrial domain supported by a skilled team of testers and quality assurance engineers help us deliver robust quality services.
+A holistic mix of manual and automated testing services helps achieve precision and enables faster time to market.
+Effective coordination with customers enables us to efficiently test the market-readiness of solutions, ensuring the highest confidence during deployment.
+Mass simulation (10,000+ devices) of smart lights for performance and reliability testing
+Simulating fault conditions and configuration parameter testing across thermostats in an integrated environment by using test jigs
+System and integration testing of automated shades with 3rd party devices and applications
+Managed testing services for seamless device interoperability with building management Systems.
+Industry 4.0 edge computing platform for real-time descriptive analytics
+Remote monitoring of elevator controllers with BACnet

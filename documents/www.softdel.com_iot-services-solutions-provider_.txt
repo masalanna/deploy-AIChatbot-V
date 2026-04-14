@@ -1,0 +1,63 @@
+Source: https://www.softdel.com/iot-services-solutions-provider/
+
+By 2025, the Internet of Things (IoT) is estimated to grow to 40 billion connected devices. Connected Factories, Connected Buildings, Connected Lighting, and Connected Homes will become the norm, requiring companies to adopt this disruptive new reality. This poses a major challenge for manufacturers and OEMs whose new and legacy products will need to be engineered to meet the standards of tomorrow’s IoT networks.
+Softdel delivers IoT design, consulting, development, and integration solutions &
+services to a wide range of global product companies and OEMs to help them innovate
+faster. Softdel’s future-proof solutions encompass advanced controls, connectivity, and
+digital transformation technologies that enable our customers to introduce cutting-edge
+– Identify customer’s business objectives along with IoT business models and monetisation plans
+– Outline strategy for cloud, data and security
+– Prepare Product Requirements Document (PRD)
+– Design IoT execution strategy and roadmap
+– Recommend appropriate technologies and components
+Identify customer’s business objectives along with IoT business models and monetisation plans
+Outline strategy for cloud, data and security
+Prepare Product Requirements Document (PRD)
+Design IoT execution strategy and roadmap
+Recommend appropriate technologies and components
+– Develop new product lines to implement native IoT protocols
+– Implement IoT connectivity protocols like MQTT, Thread, CoAP
+– Re-engineer the existing product line to make it IoT compatible
+– Implement field-level connectivity protocols like Bluetooth, Wi-Fi, ZigBee, BACnet, Modbus, etc.
+Develop new product lines to implement native IoT protocols
+Implement IoT connectivity protocols like MQTT, Thread, CoAP
+Re-engineer the existing product line to make it IoT compatible
+Implement field-level connectivity protocols like Bluetooth, Wi-Fi, ZigBee, BACnet, Modbus, etc.
+– Bridging device data through IoT gateway to cloud
+– Multi-protocol gateway for legacy or new products
+– Develop unified platform for device data ingestion and inference
+– Integration of third-party devices and applications
+– Expose platform data through secure REST API
+– Compute data for a device, site, or global deployments
+– Customised IoT solutions for business continuity
+– Upgrade IoT ecosystem for marketplace and applications
+Develop unified platform for device data ingestion and inference
+Integration of third-party devices and applications
+Expose platform data through secure REST API
+Compute data for a device, site, or global deployments
+Customised IoT solutions for business continuity
+Upgrade IoT ecosystem for marketplace and applications
+– Develop management applications for remote monitoring and control
+– Formulate new product-specific use cases
+– Design and integrate algorithms for predictive, preventive, and prescriptive
+– API development and support to enable third-party application integration
+– Development of cloud-hosted, agnostic, or hybrid solutions
+Develop management applications for remote monitoring and control
+Design and integrate algorithms for predictive, preventive, and prescriptive
+API development and support to enable third-party application integration
+Development of cloud-hosted, agnostic, or hybrid solutions
+to-end IoT solutions, thereby facilitating
+the creation of a holistic ecosystem that
+of pre-built software stacks and tools for
+backed by consistent quality and an agile
+to-end IoT solutions, thereby facilitating
+the creation of a holistic ecosystem that
+of pre-built software stacks and tools for
+backed by consistent quality and an agile
+Smart connectivity platform solution for valves in the oil & gas industry
+Solution for android-based applications for efficient people flow in smart buildings
+Solution for integrated wireless systems for monitoring water usage within buildings
+RFID-based theft prevention solution for retailers
+Seamless platform modernisation for operational excellence
+Improving field service productivity with IoT
+Smart lighting solutions for energy-efficient and healthier environment

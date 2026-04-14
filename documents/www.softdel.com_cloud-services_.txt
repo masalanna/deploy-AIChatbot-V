@@ -1,0 +1,41 @@
+Source: https://www.softdel.com/cloud-services/
+
+In the age of fast-paced innovation, cloud computing has emerged as a catalyst for technological change for devices. To stay competitive and agile, organisations need to shift towards cloud-based operations. Integrating IoT systems with powerful cloud platforms, however, requires in-depth knowledge of both cloud services and device engineering. This includes the delivery of on-demand IT resources to access technology solutions such as computing, networking, and storage.
+Softdel provides advanced cloud services to help businesses integrate their IT and OT business
+models to enable them to make better business decisions.
+– Digital transformation consultancy and advisory for cloud adoption
+– Architecture, tool, and platform recommendations
+Digital transformation consultancy and advisory for cloud adoption
+Architecture, tool, and platform recommendations
+– Migrate and operate existing applications to enterprise-grade native cloud applications
+– Networking services and configuration tools
+Migrate and operate existing applications to enterprise-grade native cloud applications
+Networking services and configuration tools
+– Application/Data/Workloads migration to private/public clouds
+– Migrating complex, multi-tier applications
+Application/Data/Workloads migration to private/public clouds
+Migrating complex, multi-tier applications
+– Cloud-native application design, build, and operation
+– Service-oriented architecture, micro-services, containerisation, serverless computing
+Cloud-native application design, build, and operation
+Service-oriented architecture, micro-services, containerisation, serverless computing
+– Data ingestion, storage, and frameworks
+experience in comprehensive cloud services.
+Rich cloud computing experience across platforms
+flexible cloud-based infrastructure reduces
+architecture with specialised features and
+testing services ensures complete compliance
+10+ years of experience in comprehensive cloud services.
+Rich cloud computing experience across platforms
+Our wide range of cloud services simplify infrastructure development and management.
+Our scalable and flexible cloud-based infrastructure reduces operational costs and time to market.
+Our private cloud architecture with specialised features and testing services ensures complete compliance
+Solution for android-based touch screen controllers for boiler and content management systems
+Solution for turnstile relay-based controllers for access control
+Customised BACnet/Zigbee-based floor controller solution for smart lightning applications
+Low-power battery-operated device solution for wall control units
+Solution for touch screen-based room pressure monitoring devices
+Solution that re-engineered multi-flow valve controllers to support additional wireless protocols and touchscreens
+Industry 4.0 edge computing platform for real-time descriptive analytics
+Improving field service productivity with IoT
+Smart lighting solutions for energy-efficient and healthier environment

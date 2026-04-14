@@ -1,0 +1,31 @@
+Source: https://www.softdel.com/data-and-ai/
+
+While the adoption of the Internet of Things (IoT) helps businesses stay relevant in today’s world, intelligent data analysis in IoT devices is a complex endeavor. Realising the full potential of data collected requires the convergence of Artificial Intelligence (AI) and Machine Learning (ML) with IoT. AI and ML play a massive role in how we monitor IoT devices and stimulate smart decision-making, improve business process automation, optimise energy usage, and reduce cost.
+Using our domain experience and deep expertise in multiple data warehousing and reporting platforms, we offer varied services across the data lifecycle including data acquisition, data aggregation, master data management, data governance, data analytics, data visualisation, data monetization, and data operations.
+Our data analytics and AI expertise ensure successful outcomes for customers with our framework that helps prioritize use cases, build intelligence systems, connect the unconnected and leverage AI to extract value from data.
+– Data cleaning, filtering, and feature extraction
+– Artificial intelligence algorithm and Machine learning model – development, migration and upgrades, recalibration, deployment
+– Alerts, alarms, and           notifications
+– Data cleaning, filtering, and feature extraction
+– Artificial intelligence algorithm development, migration and upgrades, recalibration,deployment
+– Machine learning model development, migration and upgrades,
+Data strategy, governance, and compliance
+– Data transformation roadmap  – Domain consultancy  – Technical consultancy
+engineering services to enterprises across the
+building and industrial automation domain.
+Our expertise in full-stack IoT development
+helps our customers integrate their AI/ML
+solution to an existing IoT infrastructure.
+complexities, enable our customers to reduce
+Our ecosystem is secure all through the data
+lifecycle, from connect to report, and uses
+private cloud architecture with specialised
+10+ years of experience in providing comprehensive AI/ML solutions and data engineering services to enterprises across the building and industrial automation domain.
+Our expertise in full-stack IoT development helps our customers integrate their AI/ML solution to an existing IoT infrastructure.
+Our experience working with IT/OT data complexities, enable our customers to reduce operational costs and time to market.
+Our ecosystem is secure all through the data lifecycle, from connect to report, and uses private cloud architecture with specialised
+Condition-based maintenance (CBM) using prognostic algorithms that can perform predictive and preventive maintenance with real-time monitoring
+Cloud-based solution to monitor, control, predict errors for on-site HVAC equipment using unique vibration signal which is captured in time-series format
+Industry 4.0 edge computing platform for real-time descriptive analytics
+Improving field service productivity with IoT
+Smart lighting solutions for energy-efficient and healthier environment

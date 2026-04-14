@@ -1,0 +1,32 @@
+Source: https://www.softdel.com/digital-building-solutions/
+
+Digital Building Solutions | Building Automation Solutions & Services
+Today’s digitally enabled buildings are surpassing their foundational vision of just increasing occupant comfort and reducing emissions and costs. They’re now addressing the next stage of evolution — increasing wellbeing, productivity, sustainability, interconnectedness, extending equipment life,
+and impacting security for both humans and capital.
+Softdel supports ‘buildings of the future’ with smart devices, versatile communications protocols, and AI-ready applications that leverage data and insights to drive decision-making, productivity, and sustainability.
+We provide comprehensive IoT-led technology solutions across the entire product development life cycle ranging from integrating different devices and systems in buildings to engineering enterprise-grade command and control platforms that enable organisations to unlock value.
+Are your Building-IoT solutions ready for AI revolution in smart buildings?
+Softdel supports ‘buildings of the future’ with smart devices, versatile communications protocols, and AI-ready applications that leverage data and insights to drive decision-making, productivity, and sustainability.
+Are your Building-IoT solutions ready for AI revolution in smart buildings?
+To be globally competitive, organisations need to engineer devices and systems that comply with complex, ever-evolving engineering standards.
+Softdel is perfectly positioned to speedily deliver innovative digital solutions for B-IoT networks and help you gain a differentiated foothold in the competitive marketplace.
+Enterprise IoT platforms, which seamlessly unite applications, devices, and users in a fully integrated solution, are increasingly becoming the focus area for digital buildings. To enhance efficiency and agility, these often-isolated platforms need to integrate well with other applications and must move to the cloud.
+Softdel’s innovative approach for building AI-enabled applications and platforms is the key for organisations to design and engineer their new or legacy building automation products.
+The smartest buildings of the future are designed to be efficient, reliable, and safe for occupants, having the perfect mix of innovative technology and people-friendly measures.
+Softdel’s advanced solutions for smart buildings create healthier, productive, and comfortable spaces for the people inside.
+Considering HVAC systems are energy-intensive building equipment, optimising their energy use and simultaneously increasing occupant comfort is paramount.
+We have developed solutions for HVAC OEMs and now they can connect their variable speed drives to a B-IoT network for seamless monitoring and control through various touchpoints. This enables the Building Management System (BMS) to now make a precise assessment of HVAC devices and provide specific operational inputs to users, thereby making a significant difference in the way building devices are controlled by facility managers.
+We have developed solutions for HVAC OEMs and now they can connect their variable speed drives to a B-IoT network for seamless monitoring and control through various touchpoints. This enables the Building Management System (BMS) to now make a precise assessment of HVAC devices and provide specific operational inputs to users, thereby making a significant difference in the way building devices are controlled by facility managers.
+Next-gen elevators are evolving to make smart data exchanges with other building equipment and devices, and cease to operate in silos.
+Partnering with global elevator OEMs, we have introduced solutions that interfaces with access control devices and fire alarm systems to manage floor accessibility and emergency evacuation. This effective alternate method of evacuation puts building owners and fire departments at ease and reassures them of occupants’ safety.
+We have developed solutions for HVAC OEMs and now they can connect their variable speed drives to a B-IoT network for seamless monitoring and control through various touchpoints. This enables the Building Management System (BMS) to now make a precise assessment of HVAC devices and provide specific operational inputs to users, thereby making a significant difference in the way building devices are controlled by facility managers.
+Power-over-Ethernet (PoE) based smart lighting solutions change the paradigm by controlling basic functions like dimming, colour temperature, and lux levels.
+We have collaborated with industrial connector OEMs to co-engineer a technology-led intuitive solution that helps make the working environment dynamic by mimicking the Circadian Rhythm of humans, thereby boosting productivity and achieving higher efficiency.
+We have developed solutions for HVAC OEMs and now they can connect their variable speed drives to a B-IoT network for seamless monitoring and control through various touchpoints. This enables the Building Management System (BMS) to now make a precise assessment of HVAC devices and provide specific operational inputs to users, thereby making a significant difference in the way building devices are controlled by facility managers.
+Multiple regulators are involved in releasing Indoor Air Quality (IAQ) standards to make the environment healthy and safe for occupants by ensuring a good balance of air circulation, temperature, and humidity.
+Softdel has worked with OEMs to develop a solution for integrating various sensors that provide fast and reliable data to supply retrofit solutions for their customers. This solution brings insights regarding air quality to a platform that is then used by multiple devices like HVAC, air ventilators, and dehumidifiers to enhance occupants’ comfort.
+We have developed solutions for HVAC OEMs and now they can connect their variable speed drives to a B-IoT network for seamless monitoring and control through various touchpoints. This enables the Building Management System (BMS) to now make a precise assessment of HVAC devices and provide specific operational inputs to users, thereby making a significant difference in the way building devices are controlled by facility managers.
+Some of the biggest names across the building automation and controls industry trust Softdel. Will you be next?
+Solutions delivered successfully for Building Automation domain
+Home to the World’s First BACnet Test Reference Lab
+Find out how BACnet bridges the worlds of IT and Building Automation Systems

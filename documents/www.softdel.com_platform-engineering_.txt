@@ -1,0 +1,26 @@
+Source: https://www.softdel.com/platform-engineering/
+
+Softdel partners with organisations that seek to optimise commissioning, monitoring, and controlling operations and manage their assets in the most optimum way. IoT platforms play multiple roles in an organisation. IoT platforms provide integrated software capabilities to support devices with a unified application, often known as a Platform-as-a-Service (PaaS). IoT platforms are engineered to manage endpoints, which can be either mission-critical or just a simple data source from a sensor. Enterprise IoT Platforms make the ecosystem complete by providing a wide range of options to integrate, manage, and scale IoT solutions.
+Softdel’s platform engineering includes core services to help your organisation’s ability to deliver extensible platforms with cloud-native technologies.
+Through our platform engineering services, we help organisations with their IoT platform lifecycle challenges by connecting devices and enterprises to build customer (people) centric solutions.
+– Solution Blueprinting and platform roadmap definition
+Solution Blueprinting and platform roadmap definition
+Our successful platform engagements with Enterprises
+successfully deployed 20+ IoT platforms for
+leading global building and industrial OEMs
+activities, we engineer IoT platforms with
+Leverage our expertise for innovative solutions
+technological capabilities and 15+ years of
+experience in this domain to build next-gen
+of pre-built software stacks and tools for
+We have built and successfully deployed 20+ IoT platforms for leading global building and industrial OEMs and enterprises.
+To ensure the least disruption of ongoing business activities, we engineer IoT platforms with unique and easy-to-comprehend features
+Leverage our expertise for innovative solutions
+We use our disruptive technological capabilities and 15+ years of experience in this domain to build next-gen IoT platforms for our customers.
+We offer a suite of pre-built software stacks and tools for cost-effective and rapid platform development.
+Smart connectivity platform solution (hardware and software) for flow computers to enable reliable and consistent data exchange across product lines
+Platform modernisation solution for elevator and escalator, from legacy systems to microservices-based architecture to facilitate hardware consolidation and performance scaling
+Global platform solution for automated window shades, to address device/sensor obsolescence and unlock transformational use cases with cloud applications
+Improving field service productivity with IoT
+Enterprise IoT platform for next generation solar shade systems
+Smart lighting solutions for energy-efficient and healthier environment

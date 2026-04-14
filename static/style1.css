@@ -1,0 +1,344 @@
+body {
+    font-family: Ubuntu, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* Optional for centering other content */
+    align-items: center; /* Optional for centering other content */
+}
+
+.chat-container {
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    position: fixed; /* Fixed positioning for bottom-right placement */
+    bottom: 20px; /* Distance from the bottom */
+    right: 20px; /* Distance from the right */
+    overflow: hidden;
+    z-index: 1000; /* Ensure it stays on top of other elements */
+}
+
+.chat-header {
+    background-color: #A40063; /* Sky blue */
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chat-controls{
+display: flex;}
+
+
+.chat-header-title {
+    font-weight: bold;
+}
+
+.chat-header-buttons {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+}
+
+.chat-control-button {
+    background-color: transparent; /* No background color */
+    color: white; /* Button color */
+    border: none; /* Remove border */
+    font-size: 18px; /* Button size */
+    cursor: pointer; /* Pointer cursor on hover */
+    padding: 5px 10px; /* Add padding */
+    border-radius: 5px; /* Round corners */
+    transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.chat-control-button:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Light background on hover */
+}
+
+.chat-display {
+    flex-grow: 1;
+    padding: 10px;
+    overflow-y: auto; /* Enable vertical scrolling */
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+    max-height: 400px; /* Set a maximum height for the chat display */
+}
+
+.bot-message, .user-message {
+    margin-bottom: 10px;
+}
+
+.bot-message {
+    display: flex; /* Flexbox for aligning image and text */
+    align-items: flex-start;
+    color: #333;
+    background: #f4f4f4;
+    padding: 8px 12px;
+    border-radius: 5px;
+    align-self: flex-start;
+    align-items: center;
+    width:80%
+}
+
+.user-message {
+    text-align: left;
+    background: #2352CA;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 10px;
+    align-self: flex-end;
+    max-width: 40%; /* Restrict maximum width for readability */
+    word-wrap: break-word; /* Ensure long words break */
+    margin: 5px 0; /* Add spacing between messages */
+    margin-left: auto;
+    border-bottom-right-radius: 0;
+    min-height: 25px;
+    display: flex;
+    align-items: center
+}
+
+.chatbot-icon {
+    width: 50px; /* Adjust size */
+    height: 50px;
+    border-radius: 50%; /* Circular image */
+    margin-right: 10px; /* Space between image and text */
+    flex-shrink: 0; /* Prevent the image from shrinking */
+}
+
+.message-content {
+    background: #f4f4f4; /* Matches the bot-message background */
+    padding: 0;
+    font-size: 14px;
+    max-width: calc(100% - 50px); /* Prevents text overflow */
+}
+
+.typing-indicator {
+    display: none;
+    font-style: italic;
+    font-size: 14px;
+    color: gray;
+    margin-top: 10px;
+}
+
+.chat-input-container {
+    display: flex;
+    padding: 10px;
+    background-color: #fff;
+}
+
+#user-input {
+    flex-grow: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+#send-button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#send-button:hover {
+    background-color: #005bb5;
+}
+
+/* ===== Option Buttons ===== */
+.options {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px; /* Add spacing below the options */
+}
+
+.option-button {
+    padding: 10px 20px;
+    color: #003366; /* Blue shade for the title */
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #003366; /* Blue shade for the border */
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 4px 6px rgba(0, 0, 6, 0.3); /* Shadow effect */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.option-button:hover {
+    background-color:  #f4f4f4; /* Slight blue tint on hover */
+    color: #0056b3; /* Darker blue for the title on hover */
+    border-color: #0056b3; /* Darker blue for the border on hover */
+}
+
+.option-button.active-option {
+    background-color: #f4f4f4; /* Darker blue when clicked */
+}
+
+/* ===== Suboption Buttons ===== */
+.suboptions {
+    margin-top: 10px; /* Space above suboptions */
+    margin-bottom: 15px; /* Space below suboptions */
+    display: flex;
+    flex-direction: column; /* Stack suboptions vertically */
+    gap: 10px; /* Space between each suboption */
+}
+
+.suboption-button {
+    padding: 10px 20px;
+    color: #003366; /* Blue shade for the title */
+    background-color: transparent; /* Transparent background */
+    border: 1px solid #003366; /* Blue shade for the border */
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 2px 4px 6px rgba(0, 0, 6, 0.3); /* Shadow effect */
+    margin-top: 10px;
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.suboption-button:hover {
+    background-color:  #f4f4f4; /* Slight blue tint on hover */
+    color: #0056b3; /* Darker blue for the title on hover */
+    border-color: #0056b3; /* Darker blue for the border on hover */
+}
+
+/* ===== Disabled State (LOCKED) ===== */
+.option-button:disabled,
+.suboption-button:disabled {
+    opacity: 0.5;                /* Faded look */
+    cursor: not-allowed;         /* "No" cursor */
+    background-color: #e0e0e0;   /* Greyed background */
+    border-color: #aaa;          /* Light border */
+    color: #666;                 /* Grey text */
+    box-shadow: none;            /* Remove shadow */
+}
+
+/* Welcome message styling */
+.bot-message.welcome-message {
+    font-weight: bold;       /* Makes the text bold */
+    font-size: 1.0rem;       /* Adjusts font size (larger than default) */
+    color: #333;             /* Optional: Customize the text color */
+    margin-bottom: 10px;     /* Adds spacing below the message */
+    line-height: 1.5;        /* Improves readability */
+}
+
+.hidden {
+    display: none;
+}
+
+#minimize-button, #maximize-button, #clear-button {
+    border: none;
+    background-color: #A40063; /* Sky blue */
+    font-size: 15px;
+    color:white
+}
+.chatbot-icon-in-ai-res {
+    width: 25px; /* Adjust size */
+    height: 25px;
+    border-radius: 50%; /* Circular image */
+    margin-right: 10px; /* Space between image and text */
+    flex-shrink: 0; /* Prevent the image from shrinking */
+}
+
+.time-stamp-css{
+   text-align: end;
+    font-size: 10px;
+    margin-top: 3px;
+    }
+    .ai-response-container {
+    padding: 0 !important
+    }
+    .mb-0{
+    margin-bottom: 0 !important
+    }
+    .text-align-right{
+    text-align: right;
+    }
+
+    .w-85{
+    width: 85%;
+    }
+    .refresh-icon{
+        width:20px;
+        height:20px;
+        margin-left:10px;
+       }
+       .d-flex{
+        display:flex
+       }
+       .typing-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.typing-indicator span {
+  width: 8px;
+  height: 8px;
+  background: #555;
+  border-radius: 50%;
+  display: inline-block;
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+.typing-indicator span:nth-child(1) {
+  animation-delay: -0.32s;
+}
+.typing-indicator span:nth-child(2) {
+  animation-delay: -0.16s;
+}
+.typing-indicator span:nth-child(3) {
+  animation-delay: 0;
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+  }
+}
+/* ===========================
+   Option Buttons Only
+=========================== */
+.options-container {
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.option-btn {
+    background: linear-gradient(135deg, #0078ff, #00c6ff);
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 120, 255, 0.2);
+}
+
+.option-btn:hover {
+    background: linear-gradient(135deg, #005bb5, #0099cc);
+    box-shadow: 0 4px 10px rgba(0, 120, 255, 0.3);
+    transform: translateY(-2px);
+}
+
+.option-btn:active {
+    transform: scale(0.95);
+}

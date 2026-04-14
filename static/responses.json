@@ -1,0 +1,46 @@
+{
+    "hi": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "hii": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "hiii": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "Hi": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "Hii": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "Hiii": "Hello! I'm Softdel's Virtual Assistant. How can I help you today?",
+    "hello": "Hi there! I'm Softdel's Virtual Assistant. What would you like to explore?",
+    "helloo": "Hi there! I'm Softdel's Virtual Assistant. What would you like to explore?",
+    "hello there": "Hello! How can I assist you with Softdel's solutions today?",
+    "hey": "Hey! What would you like to know about Softdel?",
+    "hey there": "Hi there! How can I help you today?",
+
+    "how are you": "I'm doing well, thank you! How can I assist you today?",
+    "how was your day": "I'm always here and ready to help. How can I assist you today?",
+
+    "what is your name": "I'm Softdel's Virtual Assistant. I'm here to help you with our products, services, and solutions.",
+    "who are you": "I'm Softdel's Virtual Assistant . I can help you explore our IoT solutions, products, and services.",
+
+    "thanks": "You're welcome! Let me know if there's anything else you'd like to explore.",
+    "thank you": "Happy to help! Feel free to ask anything else.",
+    "thankyou": "Happy to help! Feel free to ask anything else.",
+
+    "bye": "Bye! If you need anything later, feel free to come back. Have a great day!",
+    "goodbye": "Bye! If you need anything later, feel free to come back. Wishing you a great day ahead.",
+    "good bye": "Bye! If you need anything later, feel free to come back. Have a great day!",
+
+    "good": "Glad to hear that! Let me know how I can assist you further.",
+    "fine": "Good to hear! How can I help you next?",
+    "okay": "Great! Let me know what you'd like to explore.",
+    "i am doing good": "Nice! What would you like to know about Softdel?",
+
+    "products": "Softdel offers a range of products including:\n• Communication protocol stacks (BACnet, Modbus, HART, DMX)\n• IoT Gateway & Platform solutions (EdificeEdge, EdificePlus)\n• A BACnet Simulator (BOSS) for device testing and simulation\n\nWould you like details about any specific product?",
+
+    "services": "Softdel provides services such as:\n• Custom software development\n• Protocol stack integration\n• IoT and smart building solutions\n• Automation and testing services\n\nLet me know if you'd like more details on any of these.",
+
+    "about company": "Softdel is a technology company specializing in IoT, smart building solutions, and protocol engineering. We help businesses build scalable and intelligent systems across industries.",
+
+    "contact us": "You can reach us at:\n contact@softdel.com\n +1-234-567-8900\n\nOr I can help you schedule a call with our team.",
+
+    "schedule call": "Sure, I can help you schedule a call. Please provide your name, email, phone number, and preferred time.",
+
+    "help": "You can ask me about:\n• Softdel products (like BOSS, Edifice)\n• Services and solutions\n• Technical requirements\n• Company information\n\nWhat would you like to explore?",
+
+    "default": "I'm not sure I understood that completely. Could you rephrase your question? I can help with products, services, or technical details."
+}

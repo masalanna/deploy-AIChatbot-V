@@ -1,0 +1,16 @@
+Source: https://www.softdel.com/hart-protocol-stack/
+
+HART Protocol Stack | softHART | Hart 7.5 Protocol
+The HART protocol (Highway Addressable Remote Transducer) is a widely used communications protocol in the industrial automation industry. Its key advantage lies in its ability to communicate over the existing traditional 4-20mA signal by extending system capabilities for two-way digital communication with ‘smart’ field instruments.
+softHART enables faster firmware development for HART-enabled devices.
+Softdel’s easily configurable HART 7.5 Stack
+softHART is the Softdel’s industry-standard smart HART (Highway Addressable Remote Transducer Protocol) communications stack for industrial automation. It enables faster firmware development for HART-enabled devices.
+As a bidirectional protocol, HART communicates over existing 4-20 mA analog current loops, extending communication capabilities without the inconvenience of installing additional wiring.
+softHART is fully compliant with the latest Revision 7.5 of the HART standard and runs on a very broad range of hardware platforms and operating systems.
+The ready-to-use HART protocol slave stack, compliant with revision 7.5 is available for a one-time licensing fee. The royalty-free HART stack comes with its source code and has been pre-tested using HCF kit 192. A one-year warranty is included, which can be extended by selecting flexible support models after the warranty period.
+Supports existing processors from texas instruments, NXP, microchip technology, and ARM®
+Can be ported to any processor or hardware platform
+Small footprint size and highly efficient requires only 40 KBytes program memory and 4 KBytes of RAM
+Reliable and robust enough for any industrial environment
+Your engineers can port softHART to your hardware, with Softdel providing engineering assistance as needed. We can also port the softHART stack to your hardware and integrate it with your application. In addition, Softdel can test its operation in conformance with HART communication using HCF test tools and suites.
+The procedure we follow for porting softHART is very thorough and includes –

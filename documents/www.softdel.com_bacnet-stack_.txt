@@ -1,0 +1,15 @@
+Source: https://www.softdel.com/bacnet-stack/
+
+BACnet Protocol Stack | softBAC | Softdel
+BACnet was designed to allow communication of building automation and control systems for applications such as heating, ventilating, and air-conditioning control (HVAC), lighting control, access control, and fire detection systems and their associated equipment. The BACnet protocol provides mechanisms for building automation devices to exchange information, regardless of the particular building service they perform.
+Softdel’s intelligent BACnet PR-23 compliant Stack
+Softdel’s softBAC is an intelligent version of the industry-standard BACnet protocol stack for Building Automation and Control (BAC) networks. Softdel offers softBAC (BACnet PR-23 Stack), a comprehensive stack library supporting all profiles right from server-side (B-SS, B-SA, B-ASC, B-AAC, B-BC) to client-side (B-OD, B-OWS, B-AWS). The softBAC stack supports various platforms (Baremetal, Embedded RTOS, Windows/Linux, Docker Container) & advanced features such as IPv6, IEIEJ & web interfaces (REST, TLS1.2 Security).
+Softdel’s intelligent BACnet stack has built-in features that greatly reduce the time and effort spent during the stack integration. For devices on the network, the softBAC stack maintains its device and object databases. These databases can be manually configured or dynamically populated from existing devices on the network. The softBAC stack can automatically manage A-side services, B-side services, and APDU segmentation.
+With an increasing number of devices tied to one building automation system, there arose a significant need for a highly secure communication protocol. BACnet Secure Connect (BACnet/SC) is the solution to meet this requirement. An encrypted form of BACnet communication, this protocol uses TLS encryption to ensure the integrity and safety of its communications.
+Features of BACnet Secure Connect not only address current concerns but also comply with IT requirements:
+Encrypted WebSocket connection using Transport Layer Security (TLS v1.3) enables secured communication
+Supports DNS hostname resolution and DHCP, which eliminates the need for static IP of every device
+Eliminates BACnet/IP broadcast management device and its configuration
+Enables standard Network Address Translation (NAT) method for TCP connection
+Enables full compatibility with all other data links of BACnet through routing function
+Find out how BACnet bridges the worlds of IT and Building Automation Systems

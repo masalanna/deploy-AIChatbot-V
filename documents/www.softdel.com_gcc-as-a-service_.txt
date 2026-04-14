@@ -1,0 +1,168 @@
+Source: https://www.softdel.com/gcc-as-a-service/
+
+Innovation is the driving force behind sustainable business success, and Global Capability
+(GCCs) are fast becoming the core engines powering this transformation. By enabling enterprises to accelerate growth, enhance agility, and unlock continuous value creation, GCCs play a pivotal role in shaping the digital future of organizations.
+partners with enterprises to design, build, and operationalize high-performing
+, ensuring faster setup, reduced operational risk, and tangible business outcomes — all while building long-term innovation capabilities for the enterprise.
+Softdel’s dedicated innovation hubs have been the incubator of transformative solutions. By harnessing cutting-edge technologies and deep domain expertise, we help enterprises accelerate their journey from R&D concepts to market-ready products—establishing your GCC as a strategic center for next-generation innovation.
+Our proprietary frameworks, pre-built solution components, and a rich library of accelerators significantly compress development timelines. This ensures faster time-to-market, high-quality outcomes, and efficient scaling of your GCC’s core objective.
+Backed by a stable, skilled, and globally experienced workforce, Softdel brings a culture of collaboration, continuity, and technical excellence. Our teams ensure seamless knowledge transfer and consistent delivery performance, empowering your GCC to operate as an agile, world-class growth driver.
+We operate on ISO 27001-certified systems and ISO 17025:2017-accredited labs, ensuring uncompromised data security, protection of intellectual property, and adherence to global compliance frameworks for secure and trusted operations.
+cost savings making global operations efficient, impactful, and scalable
+Discover how your organization can unlock innovation, scalability, and cost efficiency through a Global Capability Center.
+to explore the right GCC strategy for your business.
+We wholly own and operate the GCC, managing infrastructure, talent, and processes in-house to enable faster launches while ensuring complete technical and strategic alignment.
+We build and operate the GCC for a defined period, providing the required infrastructure, talent, and processes to enable a rapid setup with greater success certainty, before transferring full ownership and control to the company.
+We own the GCC and its assets, while the partner manages day-to-day operations through dedicated talent and process management aligned with their roadmap, ensuring agility, efficiency, and seamless collaboration.
+We co-invest in and co-manage the GCC with our partner, jointly driving strategy while sharing both risks and rewards.
+A diverse, multidisciplinary team with deep domain knowledge, driving innovation and delivering complex solutions. From advisory to execution, Softdel ensures
+smooth operations and impactful outcomes.
+in engineering and digital transformation, setting up multiple successful GCCs, and partnering with Fortune 500 companies.
+agile methodologies, and flexible operations ensure seamless execution from advisory to full implementation.
+Transparent, innovation-driven, and cross-cultural collaboration is at the core of Softdel’s approach, fostering
+A diverse, multidisciplinary team with deep domain knowledge, driving innovation and delivering complex solutions. From advisory to execution, Softdel ensures
+smooth operations and impactful outcomes.
+in engineering and digital transformation, setting up multiple successful GCCs, and partnering with Fortune 500 companies.
+agile methodologies, and flexible operations ensure seamless execution from advisory to full implementation.
+Transparent, innovation-driven, and cross-cultural collaboration is at the core of Softdel’s approach, fostering
+Building a high-performance GCC for a leading smart access solutions company
+Engagement Model: Build-Operate-Transfer (BOT)
+with robust infrastructure and talent expertise spanning
+middleware, web/mobile, data engineering, cloud, and AI-based smart access control
+day-to-day operations, enabling agile and incremental delivery
+for IoT-enabled smart access and home automation systems
+. Achieved rapid ramp-up through phased resourcing, optimised SDLC processes, and structured training programs.
+Softdel’s proprietary accelerators and reusable middleware frameworks to enhance development speed and ensure seamless integration between hardware and SaaS platforms.
+Facilitated smooth transition of GCC ownership
+, ensuring complete handover of infrastructure, operations, and knowledge assets.
+Accelerated product development and innovation across the client’s smart access solutions,
+reducing time-to-market by up to 6 months
+for production-grade IoT and SaaS applications.
+through agile operations, phased resourcing, reusable frameworks, and optimized processes, enabling scalable, sustainable, and AI driven product delivery.
+– Real time monitoring of critical equipment data
+– Integration with variety of control systems (PLCs, SCADA, HMIs, etc.)
+– Visibility into OEE, availability, performance, and quality
+– Meaningful insights at the equipment, plant, and enterprise level through dashboards and reports
+– Asset management & Energy Efficiency KPIs
+– KPIs for planned, preventive, and predictive maintenance
+– Condition-based alerts and notifications
+Setting up a cutting-edge innovation lab and digital experience center for a global electronics enterprise
+Engagement Model – Company-Owned, Partner-Operated (COPO)
+Set up and managed a dedicated innovation lab
+in India, handling day-to-day operations, governance, branding, and IP protection.
+across embedded systems, hardware design, IoT, cloud, and mobile app for Building Automation Solution(BAS).
+, knowledge management practices, and scalability frameworks to enable rapid prototyping and phased solution delivery.
+for the client, while Softdel ensured delivery excellence and execution reliability.
+Accelerated product development for an end-to-end smart lighting solution,delivering the first production-grade applications
+with less than 20% of the originally planned effort
+for managed services by leveraging Softdel’s domain expertise.
+Building a High-Performance GCC for a Leading Smart Access Solutions Company
+Engagement Model: Build-Operate-Transfer (BOT)
+on GCC setup, location, infrastructure, and talent strategy; established processes and governance.
+day-to-day operations, enabling agile delivery through phased resourcing, process optimization, and structured training programs.
+accelerators and frameworks to improve efficiency and shorten delivery timelines.
+seamless knowledge transfer and capability building to ensure a smooth transition during the handover phase.
+Accelerated product development and innovation across the client’s smart access solutions,
+reducing time-to-market by up to 6 months
+through agile operations, phased resourcing, and optimized processes.
+Driving Innovation for a Global Electronics & Connectivity Solutions Provider
+Engagement Model: Company-Owned, Partner-Operated (COPO)
+Set up and managed a dedicated innovation lab
+in India, handling day-to-day operations, governance, branding, and IP protection.
+across Embedded Systems, hardware Design, IoT, Cloud, and Building Automation.
+, knowledge management, and scalability frameworks to enable rapid ramp-up and maintain operational efficiency.
+for the client, while Softdel ensured delivery excellence and execution reliability.
+Accelerated product development by 30% through streamlined operations.
+Achieved ~20% cost optimization leveraging Softdel’s domain expertise and GCC setup experience.
+Establishing a high-impact R&D hub for a global industrial software leader
+and R&D center blueprint aligned with the customer’s global product roadmap and long-term industrial automation goals.
+Established infrastructure, processes, and governance frameworks
+to ensure seamless integration with customer’s corporate culture and delivery standards.
+team from 0 to 30 engineers in 2 months, covering
+industrial connectivity, middleware, cloud integration, and OPC technologies
+, all operating in Agile alignment with global teams.
+Enhanced domain capabilities and delivery maturity, enabling the joint venture to independently scale R&D and co-innovate on next-generation industrial software solutions.
+global product innovation and engineering capabilities
+Building a High-Performance GCC for a Leading Smart Access Solutions Company
+Engagement Model: Build-Operate-Transfer (BOT)
+on GCC setup, location, infrastructure, and talent strategy; established processes and governance.
+day-to-day operations, enabling agile delivery through phased resourcing, process optimization, and structured training programs.
+accelerators and frameworks to improve efficiency and shorten delivery timelines.
+seamless knowledge transfer and capability building to ensure a smooth transition during the handover phase.
+Accelerated product development and innovation across the client’s smart access solutions,
+reducing time-to-market by up to 6 months
+through agile operations, phased resourcing, and optimized processes.
+Driving Innovation for a Global Electronics & Connectivity Solutions Provider
+Engagement Model: Company-Owned, Partner-Operated (COPO)
+Set up and managed a dedicated innovation lab
+in India, handling day-to-day operations, governance, branding, and IP protection.
+across Embedded Systems, hardware Design, IoT, Cloud, and Building Automation.
+, knowledge management, and scalability frameworks to enable rapid ramp-up and maintain operational efficiency.
+for the client, while Softdel ensured delivery excellence and execution reliability.
+Accelerated product development by 30% through streamlined operations.
+Achieved ~20% cost optimization leveraging Softdel’s domain expertise and GCC setup experience.
+Engineering a future-ready advanced automation R&D lab for a global leader in motion technology
+Engagement Model – Company Owned, Company Operated(COCO)
+Established and operated a Pune-based dedicated R&D center, overseeing day-to-day operations, governance, and delivery excellence.
+Engineered next-generation automation and control products
+, including advanced HMIs and 70+ industrial communication drivers.
+across embedded systems, IoT, cloud, and HMI development to support the customer’s innovation roadmap.
+Established standardised engineering processes
+, agile practices, and knowledge transfer frameworks that were extended across the customer’s other product lines.
+Accelerated automation and control system development by 25%
+, leveraging Softdel’s domain expertise and engineering talent.
+Reduced operational risks and strengthened long-term innovation
+through structured governance and scalable GCC operations.
+– Real time monitoring of critical equipment data
+– Integration with variety of control systems (PLCs, SCADA, HMIs, etc.)
+– Visibility into OEE, availability, performance, and quality
+– Meaningful insights at the equipment, plant, and enterprise level through dashboards and reports
+– Asset management & Energy Efficiency KPIs
+– KPIs for planned, preventive, and predictive maintenance
+– Condition-based alerts and notifications
+Building a High-Performance GCC for a Leading Smart Access Solutions Company
+Engagement Model: Build-Operate-Transfer (BOT)
+with robust infrastructure and talent expertise spanning
+ata engineering, cloud, and AI-based smart access control
+day-to-day operations, enabling agile and incremental delivery
+for IoT-enabled smart access and home automation systems
+. Achieved rapid ramp-up through phased resourcing, optimised SDLC processes, and structured training programs.
+Softdel’s proprietary accelerators and reusable middleware frameworks to enhance development speed and ensure seamless integration between hardware and SaaS platforms.
+Facilitated smooth transition of GCC ownership
+, ensuring complete handover of infrastructure, operations, and knowledge assets.
+Accelerated product development and innovation across the client’s smart access solutions,
+reducing time-to-market by up to 6 months
+for production-grade IoT and SaaS applications.
+through agile operations, phased resourcing, reusable frameworks, and optimized processes, enabling scalable, sustainable, and AI driven product delivery.
+Setting up a cutting-edge innovation lab and digital experience center for a global electronics enterprise
+Engagement Model – Company-Owned, Partner-Operated (COPO)
+Set up and managed a dedicated innovation lab
+in India, handling day-to-day operations, governance, branding, and IP protection.
+across embedded systems, hardware design, IoT, cloud, and mobile app for Building Automation Solution(BAS).
+, knowledge management practices, and scalability frameworks to enable rapid prototyping and phased solution delivery.
+for the client, while Softdel ensured delivery excellence and execution reliability.
+Accelerated product development for an end-to-end smart lighting solution,delivering the first production-grade applications
+with less than 20% of the originally planned effort
+for managed services by leveraging Softdel’s domain expertise.
+Establishing a high-impact R&D hub for a global industrial software leader
+and R&D center blueprint aligned with the customer’s global product roadmap and long-term industrial automation goals.
+Established infrastructure, processes, and governance frameworks
+to ensure seamless integration with customer’s corporate culture and delivery standards.
+team from 0 to 30 engineers in 2 months, covering
+industrial connectivity, middleware, cloud integration, and OPC technologies
+, all operating in Agile alignment with global teams.
+Enhanced domain capabilities and delivery maturity, enabling the joint venture to independently scale R&D and co-innovate on next-generation industrial software solutions.
+global product innovation and engineering capabilities
+Engineering a future-ready advanced automation R&D lab for a global leader in motion technology
+Engagement Model – Company Owned, Company Operated(COCO)
+Established and operated a Pune-based dedicated R&D center, overseeing day-to-day operations, governance, and delivery excellence.
+Engineered next-generation automation and control products
+, including advanced HMIs and 70+ industrial communication drivers.
+across embedded systems, IoT, cloud, and HMI development to support the customer’s innovation roadmap.
+Established standardised engineering processes
+, agile practices, and knowledge transfer frameworks that were extended across the customer’s other product lines.
+Accelerated automation and control system development by 25%
+, leveraging Softdel’s domain expertise and engineering talent.
+Reduced operational risks and strengthened long-term innovation
+through structured governance and scalable GCC operations.
+Let’s align on your goals and craft a roadmap tailored to your business.

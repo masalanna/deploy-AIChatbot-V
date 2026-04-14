@@ -1,0 +1,28 @@
+Source: https://www.softdel.com/embedded-engineering-solutions/
+
+Growing market demand and advancements in IoT-enabled solutions are propelling OEMs to launch multiple new product line and existing product line improvements and extensions. Device engineering demands a variety of skills ranging from electronic hardware development, firmware development, connectivity protocol implementation, and software development. OEMs are often constrained by the lack of such skills in advanced technologies and may not always have adequate domain expertise, especially around emerging standards.
+Softdel’s in-depth expertise in product design and engineering helps clients reduce time to market and costs. Our experience in hardware design, embedded software development, testing, validation, and deployment helps manufacturers and OEMs build new products and re-engineer legacy products that are smart, connected, and interoperable – all essential elements of being IoT ready.
+Our services range from SoC multilayer boards to SOM-based carrier boards for application processors/microcontrollers:
+– Hardware re-engineering for component obsolescence
+Hardware re-engineering for component obsolescence
+– Microcontroller core on a heterogeneous SoC
+Microcontroller core on a heterogeneous SoC
+– Design and development of HW/SW for Android or Linux-based devices
+Proficiency with drives, PLCs, robotics, and instrumentation devices. Experience across various embedded and real-time operating systems like FreeRTOS, ThreadX, ITRON, Embedded Linux, Ubuntu, RTLinux, VxWorks.
+100+ proven solutions successfully developed for global building and Industrial OEMs, across the product life cycle.
+Experience developing award-winning products in building, lighting, and industrial automation for Fortune 500 companies across the globe.
+Flexible business models to align with customer-specific requirements and processes.
+Proficiency with drives, PLCs, robotics, and instrumentation devices. Experience across various embedded and real-time operating systems like FreeRTOS, ThreadX, ITRON, Embedded Linux, Ubuntu, RTLinux, VxWorks.
+100+ proven solutions successfully developed for global building and Industrial OEMs, across the product life cycle.
+Experience developing award-winning products in building, lighting, and industrial automation for Fortune 500 companies across the globe.
+Flexible business models to align with customer-specific requirements and processes.
+Solution for android-based touch screen controllers for boiler and content management systems
+Solution for turnstile relay-based controllers for access control
+Customised BACnet/Zigbee-based floor controller solution for smart lightning applications
+Low-power battery-operated device solution for wall control units
+Solution for touch screen-based room pressure monitoring devices
+Solution that re-engineered multi-flow valve controllers to support additional wireless protocols and touchscreens
+Transforming water heater solutions for a safer, elevated user experience
+High-performance water solutions to help meet greener building goals
+Improving field service productivity with IoT
+Enterprise IoT platform for next generation solar shade systems

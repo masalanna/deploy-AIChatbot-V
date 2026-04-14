@@ -1,0 +1,15 @@
+Source: https://www.edificedx.ai/edificeedge/
+
+EdificeEdge | IoT Gateway for Connected Equipment
+Enabling Energy Efficiency and Data-Driven Intelligence
+EdificeEdge is a versatile IoT gateway that seamlessly integrates and collects data across various communication protocols from a variety of manufacturer-neutral HVAC equipment, controllers, actuators, IAQ sensors, lighting systems, and other equipment or systems. It features an in-built cloud-agnostic agent for seamless cloud connectivity, enabling comprehensive data collection that generates actionable insights, paving the way for tomorrow’s AI-enabled smart buildings.
+Accelerate Equipment Performance Optimisation with EdificeEdge IoT Gateway
+Monitor and analyse your operations with unparalleled precision using reliably collected data from over 2500 data points across diverse building systems, polling for changes in value in under 15 seconds, and the provision to log telemetry data.
+Capture and store extensive historical data, configure this at the edge, and easily access it through different APIs, enabling long-term trend analysis and smarter decision-making.
+Monitor and manage alarms with customisable thresholds, real-time notifications, and proactive event reporting. Our integrated and flexible alarm management application seamlessly interfaces with external smart systems from various manufacturers.
+Securely establish cloud connectivity with EdificeEdge, integrating one cloud at a time from AWS, Microsoft Azure, or Cummulocity, and harness the power of advanced analytics for deeper operational insights.
+Effortlessly manage all users with EdificeEdge, enabling you to create new accounts, define roles and access levels, and easily edit or delete existing user profiles.
+Simplify Management of Connected Equipment with EdificeEdge IoT Gateway
+EdificeEdge enables OEMs, System Integrators, and Independent Software Vendors to efficiently manage connected equipment enhancing operational efficiency and reducing downtime. With real-time monitoring and actionable insights, manufacturers and integrators can seamlessly scale from on-premises applications to cloud-based solutions. Our IoT gateway acts as an accelerator, streamlining IoT deployments, enabling rapid integration, enhancing data processing, scaling solutions and a faster go-to-market strategy. It also offers flexibility to white label the gateway for a customised experience.
+A robust and scalable gateway for securely integrating diverse devices and sub-systems across IoT-enabled environment
+Please share details to download datasheet

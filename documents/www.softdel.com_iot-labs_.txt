@@ -1,0 +1,22 @@
+Source: https://www.softdel.com/iot-labs/
+
+In a world where the Internet of Things (IoT) generates hyper-speed innovation and promises digital transformation, ensuring that IoT solutions efficiently deliver expected results is paramount to business success. Platforms that effectively manage all stages of an IoT solution’s life cycle are essential to ensure compliance before actual field deployment. IoT Labs unlock controlled environments and real-world simulations to help enterprises realize tangible benefits from targeted IoT solutions.
+Our IoT lab facilities house solutions across the building and industrial automation network, and cover all stages of the IoT product life cycle. These IoT labs are equipped with specific devices, sensors and simulators, handheld machines/controllers, gateways, and other components necessary to create an integrated and real-life ecosystem. Through our well-equipped labs, we simulate, design, develop, and test different business use cases.
+Here’s a virtual tour of our IoT Labs providing you with an immersive digital experience of our state-of-the-art facilities.
+Softdel’s IoT Lab offering drives the complete end-to-end process — from design, development, production to life cycle management. We provide comprehensive services across the IoT lifecycle by setting up infrastructure, development platforms, actual devices and simulators, IoT SDKs and kits, etc., to create a LIVE operating environment through our purpose build IoT labs.
+Our services for each stage of the IoT product life cycle include:
+Our years of deep domain expertise has enabled us set up focused point solutions and labs for specific industry use cases. This provides our customers an excellent opportunity to proof-test their IoT design/setup before making any sub-optimal future investments.
+Our customers entrust us to set up dedicated labs to pivot new initiatives from proof of concept to full-scale implementation at optimised costs and better return on investment.
+Softdel is home to the world’s #1 and largest BACnet Test Reference Lab certifying more than 90% of the world’s BACnet compliant devices. Our labs are compliant with necessary quality audits and certifications.
+Our labs are isolated entities with access control, 24x7 surveillance, and prerequisite tools to streamline the workflow between us and our customers.
+Our years of deep domain expertise has enabled us set up focused point solutions and labs for specific industry use cases. This provides our customers an excellent opportunity to proof-test their IoT design/setup before making any sub-optimal future investments.
+Our customers entrust us to set up dedicated labs to pivot new initiatives from proof of concept to full-scale implementation at optimised costs and better return on investment.
+Softdel is home to the world’s #1 and largest BACnet Test Reference Lab certifying more than 90% of the world’s BACnet compliant devices. Our labs are compliant with necessary quality audits and certifications.
+Our labs are isolated entities with access control, 24×7 surveillance, and prerequisite tools to streamline the workflow between us and our customers.
+PoE-based smart light solution from ideation to deployment with IoT lab support to perform automated large-scale system testing.
+Automated regression test-bed solution to support a production environment for a building automation controller family through our controller compliance lab.
+Platform modernisation solution of an elevator/escalator family with dedicated conformance and interoperability through our elevator lab setup.
+Solution for re-engineering flowmeter device hardware to act as a platform, and for setting up a device farm in a flowmeter lab to test scalability and performance.
+Performing integrated functional and non-functional testing for VRV HVAC systems by simulating devices in our HVAC lab.
+Managed testing services for seamless device interoperability with building management systems.
+Find out how BACnet bridges the worlds of IT and Building Automation Systems

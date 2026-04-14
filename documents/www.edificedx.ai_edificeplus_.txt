@@ -1,0 +1,17 @@
+Source: https://www.edificedx.ai/edificeplus/
+
+EdificePlus | Enterprise Platform for Smart Energy Management
+AI-Ready Platform to Achieve Energy Optimisation,
+An advanced platform designed for enterprises seeking comprehensive building and energy management solutions. With its intuitive dashboard and powerful data analytics, EdificePlus provides a holistic view of equipment and building data, offering real-time insights into operations, including energy benchmarking, building emissions management, and indoor air quality management.
+Lead in Energy Management and Sustainability with EdificePlus
+Gain granular control over your buildings’ energy consumption with utility meters, live dashboards, and in-depth reporting to optimise your energy use. Analyse consumption patterns down to the hour and track your progress towards net zero with location-specific emission factors.
+Monitor and track key metrics like total energy consumption (Scope 1 & 2), CO2 emissions, and energy use intensity (EUI), and net zero readiness with EdificePlus to drive continuous improvement in your sustainability efforts.
+Monitor CO2 and volatile organic compound (VOC) levels in real time with EdificePlus. Create healthier, more productive indoor environments and achieve sustainable building certifications like LEED, WELL, and RESET.
+Analyse equipment data, identify potential issues, and enable timely interventions with our customised library of fault rules in EdificePlus, potentially saving up to 8% through proactive maintenance.
+EdificePlus provides in-depth analytical data of space and equipment, highlighting parent-child relationships, detailed insights into equipment faults and alarms, and identifying faults.
+Accelerate your Energy Efficiency and Sustainability Objectives with EdificePlus
+EdificePlus offers building and facility managers, building owners, OEMs, SIs, and ISVs a comprehensive solution for building and energy management, all from a single platform. By integrating diverse systems and providing real-time data analytics, EdificePlus empowers stakeholders to make informed decisions, streamline operations, and accelerate their journey toward achieving ambitious sustainability goals.
+A scalable and reliable server platform offering advanced data processing focusing on decarbonization and comprehensive space management
+Ready to take control of your building’s energy,
+health, and operational efficiency with our
+Please share details to download datasheet
